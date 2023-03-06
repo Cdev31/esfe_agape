@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UDC7D71C92hQdGc2eNoZd6IpYh01GN1bJEPo8EGl7Rkq7LSwj2F/RcmxripSbLU/QJyu5KacGBcDnFrqhAqI1w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kalet\\Documents\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpi.BL\\Kalet.ArqLimpi.BL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kalet\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Kalet\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

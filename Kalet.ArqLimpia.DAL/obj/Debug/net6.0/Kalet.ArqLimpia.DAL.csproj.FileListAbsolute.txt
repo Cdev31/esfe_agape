@@ -1,0 +1,17 @@
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\bin\Debug\net6.0\Kalet.ArqLimpia.DAL.deps.json
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\bin\Debug\net6.0\Kalet.ArqLimpia.DAL.dll
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\bin\Debug\net6.0\Kalet.ArqLimpia.DAL.pdb
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\bin\Debug\net6.0\Kalet.ArqLimpia.EN.dll
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\bin\Debug\net6.0\Kalet.ArqLimpia.EN.Interfaces.dll
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\bin\Debug\net6.0\Kalet.ArqLimpia.EN.Interfaces.pdb
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\bin\Debug\net6.0\Kalet.ArqLimpia.EN.pdb
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\obj\Debug\net6.0\Kalet.ArqLimpia.DAL.csproj.AssemblyReference.cache
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\obj\Debug\net6.0\Kalet.ArqLimpia.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\obj\Debug\net6.0\Kalet.ArqLimpia.DAL.AssemblyInfoInputs.cache
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\obj\Debug\net6.0\Kalet.ArqLimpia.DAL.AssemblyInfo.cs
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\obj\Debug\net6.0\Kalet.ArqLimpia.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\obj\Debug\net6.0\Kalet.ArqLimpia.DAL.csproj.CopyComplete
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\obj\Debug\net6.0\Kalet.ArqLimpia.DAL.dll
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\obj\Debug\net6.0\refint\Kalet.ArqLimpia.DAL.dll
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\obj\Debug\net6.0\Kalet.ArqLimpia.DAL.pdb
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.DAL\obj\Debug\net6.0\ref\Kalet.ArqLimpia.DAL.dll

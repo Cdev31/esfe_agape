@@ -1,0 +1,15 @@
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\bin\Debug\net6.0\Kalet.ArqLimpia.BL.Interfaces.deps.json
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\bin\Debug\net6.0\Kalet.ArqLimpia.BL.Interfaces.dll
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\bin\Debug\net6.0\Kalet.ArqLimpia.BL.Interfaces.pdb
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\bin\Debug\net6.0\Kalet.ArqLimpia.BL.DTOs.dll
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\bin\Debug\net6.0\Kalet.ArqLimpia.BL.DTOs.pdb
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\Kalet.ArqLimpia.BL.Interfaces.csproj.AssemblyReference.cache
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\Kalet.ArqLimpia.BL.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\Kalet.ArqLimpia.BL.Interfaces.AssemblyInfoInputs.cache
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\Kalet.ArqLimpia.BL.Interfaces.AssemblyInfo.cs
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\Kalet.ArqLimpia.BL.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\Kalet.ArqLimpia.BL.Interfaces.csproj.CopyComplete
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\Kalet.ArqLimpia.BL.Interfaces.dll
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\refint\Kalet.ArqLimpia.BL.Interfaces.dll
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\Kalet.ArqLimpia.BL.Interfaces.pdb
+C:\Users\Kalet\Documents\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.BL.Interfaces\obj\Debug\net6.0\ref\Kalet.ArqLimpia.BL.Interfaces.dll

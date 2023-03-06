@@ -1,0 +1,260 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Microsoft.Extensions.DependencyInjection/7.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "7.0.0"
+        },
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "build": {
+          "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Kalet.ArqLimpia.BL.DTOs/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Kalet.ArqLimpia.BL.DTOs.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kalet.ArqLimpia.BL.DTOs.dll": {}
+        }
+      },
+      "Kalet.ArqLimpia.BL.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Kalet.ArqLimpia.BL.DTOs": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kalet.ArqLimpia.BL.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kalet.ArqLimpia.BL.Interfaces.dll": {}
+        }
+      },
+      "Kalet.ArqLimpia.EN/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Kalet.ArqLimpia.EN.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kalet.ArqLimpia.EN.dll": {}
+        }
+      },
+      "Kalet.ArqLimpia.EN.Interfaces/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Kalet.ArqLimpia.EN": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Kalet.ArqLimpia.EN.Interfaces.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Kalet.ArqLimpia.EN.Interfaces.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection/7.0.0": {
+      "sha512": "elNeOmkeX3eDVG6pYVeV82p29hr+UKDaBhrZyWvWLw/EVZSYEkZlQdkp0V39k/Xehs2Qa0mvoCvkVj3eQxNQ1Q==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyInjection.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.targets",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.xml",
+        "microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/7.0.0": {
+      "sha512": "h3j/QfmFN4S0w4C2A6X7arXij/M/OVw3uQHSOFxnND4DyAzO1F9eMX7Eti7lU/OkSthEE0WzRsfT/Dmx86jzCw==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/net461/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/net462/_._",
+        "buildTransitive/net6.0/_._",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net462/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "Kalet.ArqLimpia.BL.DTOs/1.0.0": {
+      "type": "project",
+      "path": "../Kalet.ArqLimpia.BL.DTOs/Kalet.ArqLimpia.BL.DTOs.csproj",
+      "msbuildProject": "../Kalet.ArqLimpia.BL.DTOs/Kalet.ArqLimpia.BL.DTOs.csproj"
+    },
+    "Kalet.ArqLimpia.BL.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../Kalet.ArqLimpia.BL.Interfaces/Kalet.ArqLimpia.BL.Interfaces.csproj",
+      "msbuildProject": "../Kalet.ArqLimpia.BL.Interfaces/Kalet.ArqLimpia.BL.Interfaces.csproj"
+    },
+    "Kalet.ArqLimpia.EN/1.0.0": {
+      "type": "project",
+      "path": "../Kalet.ArqLimpia.EN/Kalet.ArqLimpia.EN.csproj",
+      "msbuildProject": "../Kalet.ArqLimpia.EN/Kalet.ArqLimpia.EN.csproj"
+    },
+    "Kalet.ArqLimpia.EN.Interfaces/1.0.0": {
+      "type": "project",
+      "path": "../Kalet.ArqLimpia.EN.Interfaces/Kalet.ArqLimpia.EN.Interfaces.csproj",
+      "msbuildProject": "../Kalet.ArqLimpia.EN.Interfaces/Kalet.ArqLimpia.EN.Interfaces.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Kalet.ArqLimpia.BL.DTOs >= 1.0.0",
+      "Kalet.ArqLimpia.BL.Interfaces >= 1.0.0",
+      "Kalet.ArqLimpia.EN >= 1.0.0",
+      "Kalet.ArqLimpia.EN.Interfaces >= 1.0.0",
+      "Microsoft.Extensions.DependencyInjection >= 7.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kalet\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Kalet\\Documents\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpi.BL\\Kalet.ArqLimpi.BL.csproj",
+      "projectName": "Kalet.ArqLimpi.BL",
+      "projectPath": "C:\\Users\\Kalet\\Documents\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpi.BL\\Kalet.ArqLimpi.BL.csproj",
+      "packagesPath": "C:\\Users\\Kalet\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kalet\\Documents\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpi.BL\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Kalet\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Kalet\\Documents\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpia.BL.DTOs\\Kalet.ArqLimpia.BL.DTOs.csproj": {
+              "projectPath": "C:\\Users\\Kalet\\Documents\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpia.BL.DTOs\\Kalet.ArqLimpia.BL.DTOs.csproj"
+            },
+            "C:\\Users\\Kalet\\Documents\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpia.BL.Interfaces\\Kalet.ArqLimpia.BL.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\Kalet\\Documents\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpia.BL.Interfaces\\Kalet.ArqLimpia.BL.Interfaces.csproj"
+            },
+            "C:\\Users\\Kalet\\Documents\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpia.EN.Interfaces\\Kalet.ArqLimpia.EN.Interfaces.csproj": {
+              "projectPath": "C:\\Users\\Kalet\\Documents\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpia.EN.Interfaces\\Kalet.ArqLimpia.EN.Interfaces.csproj"
+            },
+            "C:\\Users\\Kalet\\Documents\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpia.EN.csproj": {
+              "projectPath": "C:\\Users\\Kalet\\Documents\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpia.EN\\Kalet.ArqLimpia.EN.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[7.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
