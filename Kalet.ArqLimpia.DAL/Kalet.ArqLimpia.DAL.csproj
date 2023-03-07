@@ -15,4 +15,8 @@
     <ProjectReference Include="..\Kalet.ArqLimpia.EN\Kalet.ArqLimpia.EN.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Documents\" />
+  </ItemGroup>
+
 </Project>
